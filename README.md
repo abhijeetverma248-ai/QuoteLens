@@ -1,4 +1,4 @@
-# QuoteLens — Aerchain Product Take-Home
+# QuoteLens: an AI-Powered Procurement Copilot
 
 A working prototype for the brief: AI-assisted RFx drafting, heterogeneous vendor response extraction, normalization, comparison, and natural-language procurement analysis.
 
